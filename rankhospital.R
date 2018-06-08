@@ -2,8 +2,7 @@
 ## For JHU Data Science - R Programming course
 ## madbarua 20180606
 
-## Creates a special "matrix" object that can cache its inverse
-## The matrix supplied is always invertible
+## Returns the hospital name of a specified rank from a state
 ## isValid: check if a list contains given value
 ## readCSV: read and format the csv file
 ## rankhospital: get the original matrix
